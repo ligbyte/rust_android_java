@@ -2,6 +2,9 @@ plugins {
     alias(libs.plugins.android.application)
 }
 
+
+
+
 android {
     namespace = "com.stkj.rust_android_java"
     compileSdk = 34
